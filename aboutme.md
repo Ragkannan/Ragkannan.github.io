@@ -1,15 +1,9 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
+My name is Raghul Kannan and I am a Junior at Michigan State University pursing a Bachelor's degree in Computer Science with a Minor in Business! My passion for Computer Science stems from my love for logic and problem-solving. Reach out to me through email or on linkedin if you are looking to chat.
 
 ### My story
 

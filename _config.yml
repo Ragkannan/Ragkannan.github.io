@@ -51,6 +51,7 @@ social-network-links:
   email: "raghulk2u@gmail.com"
   rss: true # remove this line if you don't want to show an RSS link at the bottom
   github: Ragkannan
+  linkedin: ragkannan
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
@@ -86,14 +87,13 @@ rss-description: This website is a virtual proof that I'm awesome
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: true
+  twitter: false
+  facebook: false
   linkedin: true
   vk: false
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
